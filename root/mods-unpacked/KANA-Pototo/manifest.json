@@ -1,0 +1,45 @@
+{
+	"name": "Pototo",
+	"namespace": "KANA",
+	"version_number": "1.1.0",
+	"description": "[center][img=600]res://mods-unpacked/KANA-Pototo/Banner_Description.png[/img]\nAdds two Character,two Item Unlocks and one Weapon.\n[wave amp=50.0 freq=5.0 connected=1]\n[b]Train Conductor[/b]\n[/wave]\n[img]res://mods-unpacked/KANA-Pototo/KANA-TrainConductor/content/characters/train_conductor/train_conductor_icon.png[/img]\n[color=#CDCDCDCD]Character Idea by [color=#CDC27C0E]ArosRising[/color] and [color=#CDC27C0E]Gorvin[/color][/color]\n[/center]\n[indent]- Collect gears to reach unlimited power.\n- Your turrets are always on your side.\n- Except when you run into them - don't get entangled![/indent]\n[center]\n[shake rate=5 level=10]\n[b]Treasure Hunter[/b]\n[/shake]\n[img]res://mods-unpacked/KANA-Pototo/KANA-TreasureHunter/content/characters/treasure_hunter/treasure_hunter_icon.png[/img]\n[color=#CDCDCDCD]Character Idea by [color=#CDC27C0E]dieAmeno[/color][/color]\n[/center]\n[indent]- Hunt for treasure and discover mystical artifacts.[/indent]",
+	"website_url": "https://github.com/BrotatoMods",
+	"dependencies": [
+		"Darkly77-ContentLoader",
+		"KANA-BFX"
+	],
+	"extra": {
+		"godot": {
+			"authors": [
+				"KANA"
+			],
+			"optional_dependencies": [
+
+			],
+			"compatible_game_version": [
+				"1.0.0.3"
+			],
+			"compatible_mod_loader_version": [
+				"6.0.0",
+				"6.1.0",
+				"6.2.0"
+			],
+			"incompatibilities": [
+
+			],
+			"load_before": [
+
+			],
+			"tags": [
+				"Characters",
+				"Weapons",
+				"Items"
+			],
+			"config_schema": {
+
+			},
+			"description_rich": "",
+			"image": null
+		}
+	}
+}
